@@ -23,9 +23,7 @@
     <project path="packages/apps/PackageInstaller" name="LineageSubstratum/android_packages_apps_PackageInstaller" remote="github" revision="cm-14.1" />
     <project path="packages/apps/PhoneCommon" name="LineageSubstratum/android_packages_apps_PhoneCommon" remote="github" revision="cm-14.1" />
     <project path="packages/apps/Settings" name="LineageSubstratum/android_packages_apps_Settings" remote="github" revision="cm-14.1" />
+    <project path="packages/services/ThemeInterfacer" name="LineageSubstratum/android_packages_services_ThemeInterfacer" remote="github" revision="cm-14.1" />
     <project path="system/sepolicy" name="LineageSubstratum/android_system_sepolicy" remote="github" revision="cm-14.1" />
     <project path="vendor/cm" name="LineageSubstratum/android_vendor_cm" remote="github" revision="cm-14.1" />
-
-    <!-- Track ThemeInterfacer -->
-    <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
 </manifest>
