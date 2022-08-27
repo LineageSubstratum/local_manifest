@@ -8,5 +8,6 @@ This manifest file is to be placed in your LineageOS ROM's **.repo/local_manifes
 * **lineage-16.0** contains the _substratum.xml_ manifest for Lineage 16.0 (Pie)
 * **lineage-17.1** contains the _substratum.xml_ manifest for Lineage 17.1 (Android 10)
 * **lineage-18.1** contains the _substratum.xml_ manifest for Lineage 18.1 (Android 11)
+* **lineage-19.1** contains the _substratum.xml_ manifest for Lineage 19.1 (Android 12)
 
 Credit to Nathan Chancellor at [LineageOMS](https://github.com/LineageOMS) for the original modifications.
